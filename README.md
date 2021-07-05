@@ -1,6 +1,6 @@
 
 # Hi, I' am Kamilla Ruiz Diaz👩🏽‍💻
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kamiruizdiaz&label=Profile%20views&color=0e75b6&style=flat" alt="kamiruizdiaz" /> </p>
 <div>
   
   <a href="https://github.com/kamiruizdiaz">
