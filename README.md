@@ -1,5 +1,5 @@
 
-### Hi There :wave:
+### Hi There :wave: 👩🏽‍💻
 ```js
 const kamiruizdiaz = {
   pronouns: "she" | "her",
