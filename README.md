@@ -7,6 +7,11 @@ const kamiruizdiaz = {
 }
 ```
 
+[![](https://img.shields.io/badge/-@kamillaruizdiaz-%231DA1F2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kamillaruizdiaz)
+[![](https://img.shields.io/badge/-@kamiruizdiaz-%23181717?style=flat-square&logo=github)](https://github.com/kamiruizdiaz)
+[![](https://img.shields.io/badge/-@kamiruizdiaz-%23181717?style=flat-square&logo=instagram)](https://www.instagram.com/kamiruizdiaz)
+
+
 You can find me :earth_americas::
 
 - Linkedin (https://www.linkedin.com/in/kamillaruizdiaz/)
