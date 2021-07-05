@@ -3,15 +3,14 @@
 ```js
 const kamiruizdiaz = {
   pronouns: "she" | "her",
-  code: [Python, Java, Javascript, html,css],
+  code: [Python, Java, Html, Css, Javascript],
 }
 ```
 
-You can find me :earth_americas:
+You can find me :earth_americas::
 
-- [Linkedin] (https://www.linkedin.com/in/kamillaruizdiaz/)
-- [Instagram] (https://www.instagram.com/kamiruizdiaz/)
-
+- Linkedin (https://www.linkedin.com/in/kamillaruizdiaz/)
+- Instagram  (https://www.instagram.com/kamiruizdiaz/)
 
 
 
