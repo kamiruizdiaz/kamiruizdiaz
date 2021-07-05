@@ -1,4 +1,14 @@
-### Hi there 👋
+
+### Hi There :wave:
+```js
+const kamiruizdiaz = {
+  pronouns: "she" | "her",
+  code: [Python, Java, Javascript, HTML, CSS],
+}
+```
+
+
+
 
 <!--
 **kamiruizdiaz/kamiruizdiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
