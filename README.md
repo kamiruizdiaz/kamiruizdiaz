@@ -1,6 +1,7 @@
 
 # Hi, I' am Kamilla Ruiz Diaz👩🏽‍💻
- <div>
+
+<div>
   <a href="https://github.com/kamiruizdiaz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kamiruizdiaz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamiruizdiaz&layout=compact&langs_count=16&theme=dracula"/>
@@ -13,7 +14,6 @@
  
 </div>
 
- 
  <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -35,3 +35,4 @@
   ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
+ 
