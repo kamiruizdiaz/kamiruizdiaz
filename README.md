@@ -37,8 +37,6 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=PyCharm)
   
-   ![Snake animation](https://github.com/kamiruizdiaz/kamiruizdiaz/blob/output/github-contribution-grid-snake.svg)
- 
- 
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/kamiruizdiaz/kamiruizdiaz/output/github-contribution-grid-snake.svg)
 </div>
  
