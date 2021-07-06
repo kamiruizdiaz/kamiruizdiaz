@@ -12,11 +12,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamiruizdiaz&layout=compact&langs_count=16&theme=dracula"/>
     
 </p> 
-<div> 
+<p align="left">
   <a href="https://www.linkedin.com/in/kamillaruizdiaz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://instagram.com/kamiruizdiaz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
-<div>
+</p> 
+
  <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -41,5 +41,5 @@
   ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=PyCharm)
   
   
-</div>
+
  
